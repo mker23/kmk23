@@ -16,7 +16,7 @@ public class GenericContainerExample : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Alpha1))           //키보드1을 누르면
+        if (Input.GetKeyDown(KeyCode.Alpha1))           //키보드2을 누르면
         {
             intContainer.Add(Random.Range(0, 100));     //0~100 랜덤숫자를 컨테이너에 넣는다.
             DisplayContainerItems(intContainer);        //함수를 통해서 Debug.Log에 보여준다.

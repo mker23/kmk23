@@ -113,6 +113,11 @@
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"Assets/Terasurware/Editor/npoi/ICSharpCode.SharpZipLib.dll"
+-r:"Assets/Terasurware/Editor/npoi/NPOI.dll"
+-r:"Assets/Terasurware/Editor/npoi/NPOI.OOXML.dll"
+-r:"Assets/Terasurware/Editor/npoi/NPOI.OpenXml4Net.dll"
+-r:"Assets/Terasurware/Editor/npoi/NPOI.OpenXmlFormats.dll"
 -r:"C:/kmk23/kmk23_A/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/log4netPlastic.dll"
 -r:"C:/kmk23/kmk23_A/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll"
 -r:"C:/kmk23/kmk23_A/Library/PackageCache/com.unity.collab-proxy@2.0.0/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll"

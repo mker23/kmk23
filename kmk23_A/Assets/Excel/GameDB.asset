@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5386c2f09d46f941bafa74a778d941a, type: 3}
+  m_Name: GameDB
+  m_EditorClassIdentifier: 
+  sheets:
+  - name: Sheet1
+    list:
+    - index: 1
+      characterName: "1\uBC88 \uCE90\uB9AD\uD130"
+      hp: 10
+      mp: 10
+    - index: 2
+      characterName: "2\uBC88 \uCE90\uB9AD\uD130"
+      hp: 20
+      mp: 11
+    - index: 3
+      characterName: "3\uBC88 \uCE90\uB9AD\uD130"
+      hp: 21
+      mp: 12
+    - index: 4
+      characterName: "4\uBC88 \uCE90\uB9AD\uD130"
+      hp: 22
+      mp: 13
+    - index: 5
+      characterName: "5\uBC88 \uCE90\uB9AD\uD130"
+      hp: 23
+      mp: 14
+    - index: 6
+      characterName: "6\uBC88 \uCE90\uB9AD\uD130"
+      hp: 24
+      mp: 15
+    - index: 7
+      characterName: "7\uBC88 \uCE90\uB9AD\uD130"
+      hp: 25
+      mp: 16
+    - index: 8
+      characterName: "8\uBC88 \uCE90\uB9AD\uD130"
+      hp: 26
+      mp: 17
+    - index: 9
+      characterName: "9\uBC88 \uCE90\uB9AD\uD130"
+      hp: 27
+      mp: 18
+    - index: 10
+      characterName: "10\uBC88 \uCE90\uB9AD\uD130"
+      hp: 28
+      mp: 19
+    - index: 0
+      characterName: 
+      hp: 0
+      mp: 0

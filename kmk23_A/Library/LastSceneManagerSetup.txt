@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Merge_Scene_0921.unity
+- path: Assets/Scenes/PathPoint_1005.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SpawnPoint_1005.unity
+- path: Assets/Scenes/Tower_Target_Shooting_1012.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

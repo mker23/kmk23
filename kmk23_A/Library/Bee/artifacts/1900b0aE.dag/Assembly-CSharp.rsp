@@ -357,8 +357,11 @@
 "Assets/Scripts/MergeSystem/ItemInfo.cs"
 "Assets/Scripts/MergeSystem/Slot.cs"
 "Assets/Scripts/MonsterPath.cs"
+"Assets/Scripts/Projectile.cs"
+"Assets/Scripts/ProjectileTower.cs"
 "Assets/Scripts/SampleController.cs"
 "Assets/Scripts/Singleton.cs"
+"Assets/Scripts/Tower.cs"
 "Assets/Terasurware/Classes/Entity_GameDB.cs"
 -langversion:9.0
 
